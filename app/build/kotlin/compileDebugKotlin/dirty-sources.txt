@@ -1,0 +1,3 @@
+/home/feijao/Projetos/projetos/Curso Kotlin/Frasesdodia/Catalogo/app/src/main/java/com/itbenevides/catalogo/MainActivity.kt
+/home/feijao/Projetos/projetos/Curso Kotlin/Frasesdodia/Catalogo/app/src/main/java/com/itbenevides/catalogo/MovieService.kt
+/home/feijao/Projetos/projetos/Curso Kotlin/Frasesdodia/Catalogo/app/src/main/java/com/itbenevides/catalogo/DetailActivity.kt

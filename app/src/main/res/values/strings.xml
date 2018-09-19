@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Catalogo</string>
+    <string name="url">http://www.omdbapi.com/</string>
+    <string name="api_key">a46dd844</string>
+    <string name="action_search">Search</string>
+    <string name="main_act_alert_empty_result_title">Olá</string>
+    <string name="main_act_alert_empty_result_message"><![CDATA[Sua busca não retornou resultados, tente efetuar uma nova busca. <3]]></string>
+    <string name="main_act_alert_empty_result_ok">OK</string>
+    <string name="main_act_layout_pesquise_filmes_e_s_ries">Pesquise filmes e séries!!!</string>
+    <string name="main_act_alert_snack_bar_connection_text">Detectamos uma falha na conexão com a internet.</string>
+    <string name="main_act_alert_snack_bar_connection_action">Vou verificar</string>
+    <string name="title">Title</string>
+    <string name="release">Release</string>
+    <string name="director">Diretor</string>
+    <string name="genre">Genre</string>
+    <string name="runtime">Runtime</string>
+    <string name="writer">Writer</string>
+    <string name="year">Year</string>
+    <string name="rated">Rated</string>
+    <string name="actors">Actors</string>
+    <string name="plot">Plot</string>
+    <string name="language">Language</string>
+    <string name="country">Country</string>
+    <string name="awards">Awards</string>
+    <string name="metascore">Metascore</string>
+    <string name="rating">Rating</string>
+    <string name="votes">Votes</string>
+    <string name="type">Type</string>
+    <string name="response">Response</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="main_act_empry_detail_result_message">Ocorreu um erro ao tentar buscar detalhes da informação, tente novamente.</string>
+</resources>
